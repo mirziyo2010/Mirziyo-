@@ -1,6 +1,7 @@
 .mir{
     display: flex;
     justify-content: center;
+    padding-left: 20px;
 }
 body{
     background-color: rgb(47, 0, 255);
